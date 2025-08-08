@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noodle Length Finder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Background Video -->
+    <video autoplay muted loop id="bgVideo">
+        <source src="noodlebackground.mp4" type="video/mp4">
+    </video>
+
+    <div class="container">
+        <h1>Noodle Length Finder 🍜</h1>
+
+        <select id="brandSelect">
+            <option value="">-- Select Noodle Brand --</option>
+            <option value="Maggi">🤤Maggi</option>
+            <option value="Yippee">🍲Yippee</option>
+            <option value="Top Ramen">🥢Top Ramen</option>
+            <option value="Knorr">🥣Knorr</option>
+            <option value="Samyang">🌶️Samyang</option>
+            <option value="Indomie">♨️Indomie</option>
+            <option value="Buldak">🥵Buldak</option>
+            <option value="Shin Ramyeon">🍜Shin Ramyeon</option>
+        </select>
+
+        <input type="file" id="imageInput" accept="image/*">
+        <button id="scanBtn">📷 Scan</button>
+
+        <div class="scanner">
+            <img id="scanImage">
+            <div class="scan-line"></div>
+        </div>
+
+        <div id="result">
+            <p id="brandOutput"></p>
+            <p id="lengthOutput"></p>
+            <p id="tasteOutput"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
