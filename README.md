@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [noodle length finder] 🎯
 
 
 ## Basic Details
@@ -42,7 +42,7 @@ For Software:
 [commands]
 
 # Run
-[commands]
+[https://anamikaullas.github.io/noodle-length-finder/]
 
 ### Project Documentation
 For Software:
@@ -58,9 +58,7 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
+![Workflow]first we found the idea the added the html code then css and javascript finally then adjustments then finished it
 For Hardware:
 
 # Schematic & Circuit
@@ -72,18 +70,17 @@ For Hardware:
 
 # Build Photos
 ![Components](Add photo of your components here)
-*List out all components shown*
+code of html
 
 ![Build](Add photos of build process here)
-*Explain the build steps*
+code for the css and javascript
 
 ![Final](Add photo of final product here)
-*Explain the final build*
+scans the noodle then finds its length
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+*this is the website we have created which is the noodle legth finder we can add the brand then upload the image then it will give us the length also it will give us the taste of the noodle*
 
 # Additional Demos
 [Add any extra demo materials/links]
