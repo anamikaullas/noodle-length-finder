@@ -1,2 +1,2 @@
 # noodle-length-finder
-we can select the brand of our noodles then  when we upload the picture we'll get the length of the noodle and also its flavor 
+so in this website you can basically select the brand of your noodles then after adding the picture it tells the legth and also flavour 
